@@ -1,4 +1,4 @@
-# e-commerce-inventory-automation
+# e-commerce-inventory-comparison-automation
 Channel Spyder: E-commerce automation framework for streamlined inventory management. Automated daily comparisons, reducing manual effort by 2 hours/day. Python, Pandas, Selenium, Beautiful Soup, Slack APIs.
 
 **Channel Spyder - E-commerce Automation Framework**
